@@ -8,3 +8,4 @@ node_modules/
 
 # Ignore optional external libraries
 source/lib/*
+!source/lib/darkmode-js
